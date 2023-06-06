@@ -61,7 +61,7 @@ nav {
 ul {
   display: flex;
   list-style: none;
-  gap: 1.6rem;
+  gap: 2.5rem;
 }
 
 .nav-left {
