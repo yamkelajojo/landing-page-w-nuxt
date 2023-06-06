@@ -113,6 +113,7 @@ img {
   justify-content: center;
   gap: 5rem;
   padding: 1rem 0;
+  flex-wrap: wrap;
 }
 
 #quote-block {

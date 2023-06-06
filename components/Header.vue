@@ -73,7 +73,8 @@ ul {
 .hero {
   display: flex;
   padding: 1.6rem 0 5rem 0;
-  gap: 10%
+  gap: 10%;
+  flex-wrap: wrap;
 }
 
 #placeholder-img {
